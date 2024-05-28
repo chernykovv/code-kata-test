@@ -34,3 +34,7 @@ Submit a GitHub / Bitbucket repo for review. No ZIP files!
 ### Do I need to write tests for connecting to API ?
 
 That can be ommitted.
+
+# How to run Result:
+
+run `ruby todo.rb 1 2 3 4 5` in terminal inside of the app directory
